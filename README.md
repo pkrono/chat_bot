@@ -3,6 +3,7 @@
 Simple test bot
 
 # Installation
-run pipenv shell
+run pipenv shell   
+
 run python main.py
 
